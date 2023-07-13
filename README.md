@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kawe</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<p text="align-center">
+    <img-src="https://github.com/malagheto/malagheto/blob/main/assets/header_title.gif" alt="Hi, I'm Kawe ✌🏽 I'm a 🇧🇷 Brazilian developer!
+    Passionate about Tech 👨🏽‍💻">
+</p>
 
 - 🔭 I’m currently working on **Itaú Unibanco**
 
