@@ -3,7 +3,7 @@
     Passionate about Tech 👨🏽‍💻">
 </p>
 
-- 🦾 I’m currently working on **Itaú Unibanco**
+- 🦾 I’m currently working on **99tech**
 - 🧠 I’m currently learning Machine Learning and Big Data
 - 💬 Ask me about [Chess](https://www.chess.com/member/malagheto) and Sneakers👟 !
 
