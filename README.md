@@ -3,9 +3,9 @@
     Passionate about Tech 👨🏽‍💻">
 </p>
 
-- 🦾 I’m currently working on **99tech**
+- 🦾 #OpenToWork 
 - 🧠 I’m currently learning Machine Learning and Big Data
-- 💬 Ask me about [Chess](https://www.chess.com/member/malagheto) and Sneakers👟 !
+- 💬 Ask me about [Chess](https://www.chess.com/member/malagheto), [Movies](https://letterboxd.com/malagheto/) and Sneakers👟 !
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malagheto&show_icons=true&locale=en&layout=compact" alt="malagheto" /></p>
 
