@@ -5,7 +5,7 @@
 
 - ✅💼 #OpenToWork 
 - ♦️ Ruby Enthusiast 
-- 💬 Ask me about [Chess](https://www.chess.com/member/malagheto), [Movies](https://letterboxd.com/malagheto/) and Sneakers👟 !
+- 💬 Ask me about [Chess](https://www.chess.com/member/malagheto)♟️, [Movies](https://letterboxd.com/malagheto/)🎥 and [Books](https://goodreads.com/malagheto)📚!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malagheto&show_icons=true&locale=en&layout=compact" alt="malagheto" /></p>
 
