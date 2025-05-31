@@ -1,7 +1,9 @@
 <p text="align-center">
-    <img src="https://github.com/malagheto/malagheto/blob/main/assets/senhor.pdf" alt="senhor_do_tempo">
     <img src="https://github.com/malagheto/malagheto/blob/main/assets/header_title.gif" alt="Hi, I'm Kawe ✌🏽 I'm a 🇧🇷 Brazilian developer!
     Passionate about Tech 👨🏽‍💻">
+</p>
+<p text="align-center">
+<img src="https://github.com/malagheto/malagheto/blob/main/assets/aboutme.pdf" alt="senhor_do_tempo">
 </p>
 
 - 🖥️👨🏽‍💻 Full Stack Developer
